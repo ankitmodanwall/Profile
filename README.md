@@ -8,17 +8,8 @@ I'm a passionate backend developer with a strong foundation in C and C++. My pro
 ## 🔧 Technologies & Tools
 - **Languages:** C, C++, HTML
 - **Version Control:** Git, GitHub
-- **Development Tools:** Visual Studio Code, GCC, GDB
+- **Development Tools:** Visual Studio Code, GfG , Leetcode
 - **Operating Systems:** Linux, Windows
-
-## 🔭 Projects
-Here are a few projects I've worked on:
-
-### [Project 1: Personal Portfolio Website](https://github.com/manya-upadhyay/portfolio-website)
-A personal portfolio website built using HTML. Features:
-- Responsive design
-- Smooth scrolling navigation
-- Project showcases with descriptions and links
 
 ## 🌱 Currently Learning
 I'm currently expanding my knowledge in:
