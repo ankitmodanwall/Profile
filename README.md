@@ -27,7 +27,7 @@ I'm currently expanding my knowledge in:
 
 ## 📫 How to Reach Me
 - **Email:** manyayuv8404@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/manya-upadhyay-2b70522b2)
+- **LinkedIn:** (https://linkedin.com/in/manya-upadhyay-2b70522b2)
 
 ## 🤝 Let's Collaborate
 I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to work together on a project or just want to connect!
